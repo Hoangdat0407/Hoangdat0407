@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Hoàng Đình Đạt</h1>
-
-<h3 align="center">
-💻 IT Student | 🌱 Exploring Frontend Development | 🇻🇳 Vietnam
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Hoàng+Đình+Đạt;IT+Student;Exploring+Frontend+Development;Code+Learn+Build+Repeat" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Student at VNU University of Engineering and Technology
+- 🎓 IT Student at VNU University of Engineering and Technology
 - 🌱 Currently learning programming fundamentals and web development
 - 💡 Interested in:
   - Frontend Development
@@ -38,16 +36,6 @@
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Hoangdat0407&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hoangdat0407&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoangdat0407&layout=compact&theme=tokyonight)
 
 ---
 
