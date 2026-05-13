@@ -15,23 +15,13 @@
 
 ---
 
-## 🚀 Languages & Tools
+## 🚀 Languages
 
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
