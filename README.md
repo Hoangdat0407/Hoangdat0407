@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hoàng Đình Đạt</h1>
 
-<!--
-**Hoangdat0407/Hoangdat0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+💻 Student | 🚀 Backend Developer | 🇻🇳 Vietnam
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Student at VNU University of Engineering and Technology
+- 🌱 Currently learning:
+  - Java
+  - Spring Boot
+  - NodeJS
+  - AI & Machine Learning
+
+- ⚡ Motto:
+  > Code - Learn - Build - Repeat.
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### Backend
+![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
+
+![NodeJS](https://img.shields.io/badge/NodeJS-darkgreen?style=for-the-badge&logo=node.js)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Hoangdat0407&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hoangdat0407&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+- 📧 25021708@vnu.edu.vn
+- 🌐 GitHub: https://github.com/Hoangdat0407
